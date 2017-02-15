@@ -8,6 +8,7 @@ env:
   matrix:
   - TARGET=qemux86-64
   - TARGET=raspberrypi2
+  - TARGET=intel_nuc-core-i5
 
 # Tests running commands
 script:
