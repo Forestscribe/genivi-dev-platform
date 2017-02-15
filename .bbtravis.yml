@@ -7,8 +7,8 @@ env:
   - DOCKER_IMAGE=forestscribe/docker-buildworker
   matrix:
   - TARGET=qemux86-64
-  - TARGET=raspberrypi2
-  - TARGET=intel_nuc-core-i5
+  - TARGET=raspberrypi3
+  - TARGET=intel-corei7-64
 
 # Tests running commands
 script:
