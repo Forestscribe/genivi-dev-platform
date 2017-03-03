@@ -18,3 +18,5 @@ PREFERRED_PROVIDER_virtual/libgles2 = "mesa"
 PREFERRED_PROVIDER_virtual/libgl = "mesa"
 PREFERRED_PROVIDER_virtual/mesa = "mesa"
 PREFERRED_PROVIDER_jpeg = "jpeg"
+
+MACHINE_FEATURES += "can"
