@@ -48,3 +48,6 @@
 	path = meta-forestscribe
 	url = https://github.com/Forestscribe/meta-forestscribe.git
 
+[submodule "meta-uitest"]
+	path = meta-uitest
+	url = https://github.com/Forestscribe/meta-uitest.git
