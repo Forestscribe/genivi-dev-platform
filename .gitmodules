@@ -44,6 +44,9 @@
 [submodule "meta-radioservice"]
 	path = meta-radioservice
 	url = https://github.com/Forestscribe/meta-radioservice.git
+[submodule "meta-forestscribe"]
+	path = meta-forestscribe
+	url = https://github.com/Forestscribe/meta-forestscribe.git
 
 [submodule "meta-uitest"]
 	path = meta-uitest
