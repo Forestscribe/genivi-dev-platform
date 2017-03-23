@@ -13,7 +13,7 @@ env:
 # Tests running commands
 script:
   - title: clean old build
-    cmd: rm -rf gdp-src-build/tmp/
+    cmd: rm -rf gdp-src-build/
 
   - title: build gdp
     shell: bash
